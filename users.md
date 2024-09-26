@@ -1,7 +1,7 @@
 # Users
 
 {% swagger 
-    src="./openapi.json" 
+    src="./gitbook_api_spec.yaml"
     path="/collections/{collectionId}" 
     method="get" 
     expanded="true" 
